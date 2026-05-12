@@ -29,11 +29,12 @@ Fluxo do projeto:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python (Pandas)
-- SQL (MySQL / PostgreSQL)
-- Power BI
-- Excel / CSV
-- Git & GitHub
+- Python (Pandas) → tratamento e transformação de dados  
+- SQL Server → modelagem, criação de tabelas e consultas SQL  
+- Power BI → visualização e dashboard interativo  
+- Excel / CSV → origem e armazenamento dos dados  
+- Microsoft Visio → modelagem do pipeline de dados e arquitetura  
+- Git & GitHub → versionamento do projeto  
 
 ---
 
