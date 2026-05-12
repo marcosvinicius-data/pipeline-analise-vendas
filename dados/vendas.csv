@@ -1,0 +1,11 @@
+﻿Produto;Categoria;Quantidade;Valor;Regiao
+Notebook;Eletrônicos;2;3500;Sudeste
+Mouse;Eletrônicos;5;80;Sul
+Teclado;Eletrônicos;3;150;Nordeste
+Monitor;Eletrônicos;2;1200;Sudeste
+Headset;Eletrônicos;4;250;Sul
+Cadeira;Móveis;1;900;Sudeste
+Mesa;Móveis;2;1200;Sul
+Armário;Móveis;1;1500;Nordeste
+Sofá;Móveis;1;3200;Sudeste
+Celular;Eletrônicos;3;2200;Norte
