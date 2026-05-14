@@ -53,7 +53,8 @@ pipeline-analise-vendas/
 │
 ├── diagrama/ 
 │   ├── pipeline de dados.png
-│
+│   ├── pipeline de dados.vsdx
+│ 
 ├── python/
 │   ├── tratamento_dados.py
 │
